@@ -1,4 +1,4 @@
-#Question 6
+# Question 6
 
 <p>The sum of the squares of the first ten natural numbers is,</p>
 
