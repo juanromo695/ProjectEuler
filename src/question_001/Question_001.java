@@ -9,6 +9,6 @@ public class Question_001 {
                 sumOfMultiples += i;
             }
         }
-        System.out.printf("Sum of all the multiples of 3 or 5 below 1,000 is %,d.\n", sumOfMultiples);
+        System.out.println(sumOfMultiples);
     }
 }

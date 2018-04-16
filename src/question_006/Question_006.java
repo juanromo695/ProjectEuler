@@ -14,7 +14,6 @@ public class Question_006 {
         squareOfSum = (int) Math.pow(squareOfSum, 2);
 
         int difference = sumOfSquares - squareOfSum;
-        System.out.printf("The difference between the sum of the squares of the first one hundred natural numbers " +
-                "and the square of the sum is %,d\n", difference);
+        System.out.println(difference);
     }
 }
